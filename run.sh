@@ -1,2 +1,2 @@
-g++ Arctan2.cpp -lgmpxx -lgmp -o Arctan.out
+g++ Arctan.cpp -lgmpxx -lgmp -o Arctan.out
 ./Arctan.out
