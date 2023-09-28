@@ -91,6 +91,7 @@ int main() {
     long goal;
     long jogen=pow(10,8);
     long kagen=100;
+    cout << "How many decimal places do you calculate to?:";
     cin >> goal;
     goal=max(kagen,min(jogen,goal));
 
